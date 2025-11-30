@@ -1,0 +1,18 @@
+# KDE/Plasma specific
+*.plasmoid
+*.kdev4
+.kdev4/
+*.kate-swp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# System
+.DS_Store
+Thumbs.db
+*~
+*.bak

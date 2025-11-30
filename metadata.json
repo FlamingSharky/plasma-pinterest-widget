@@ -1,0 +1,24 @@
+{
+  "KPlugin": {
+    "Id": "org.user.pinterest",
+    "Name": "Pinterest",
+    "Description": "A beautiful Pinterest feed widget for your desktop. Supports personal feed, user search, and more.",
+    "Icon": "view-list",
+    "Category": "Utilities",
+    "Version": "1.0",
+    "Authors": [
+      {
+        "Name": "User",
+        "Email": "user@example.com"
+      }
+    ],
+    "License": "GPL-3.0+",
+    "Website": "https://github.com/user/pinterest-widget",
+    "ServiceTypes": [
+      "Plasma/Applet"
+    ]
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-MainScript": "ui/main.qml"
+}
