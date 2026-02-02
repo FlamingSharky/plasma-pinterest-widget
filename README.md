@@ -1,8 +1,9 @@
+# READ THIS BEFORE ANYTHING:
+FYI: This entire thing seems to have been written in AI so I decided to just skim through it and see if I can make it work and ask the author to update it from the fork. I will see about maybe getting it up on the KDE Plasma store but I do not know if I feel like that is a solid idea considering the base code is just written by AI. Not that it's a problem entirely, just that it is not my project and I do not really feel like keeping it up to date beyond my own usages of it.
+
 # Pinterest Plasma Widget
 
 A KDE Plasma widget that displays a Pinterest feed (Personal, User, or Search results) on your desktop.
-
-FYI: This entire thing seems to have been written in AI so I decided to just skim through it and see if I can make it work and ask the author to update it from the fork. I will see about maybe getting it up on the KDE Plasma store but I do not know if I feel like that is a solid idea considering the base code is just written by AI. Not that it's a problem entirely, just that it is not my project and I do not really feel like keeping it up to date beyond my own usages of it.
 
 ## Features
 - **Personal Feed**: View your own Pinterest home feed (requires authentication).
